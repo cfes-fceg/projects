@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Source**
+Did this project originate from a GA motion? Or was it an idea from Slack? (provide the link to the source, if possible)
+
 **What is the motivation for this project? What specific problem(s) might it solve?**
 A clear and concise description of what the problem is.
 
@@ -16,7 +19,7 @@ A clear and concise description of what you want to happen.
 **Describe alternatives you've considered, or past work on this topic**
 A clear and concise description of any alternative solutions you've considered, and past discussions on this problem 
 
-**List the stakeholders of this project **
+**List the stakeholders of this project**
 Who should be involved in executing this project? Who should be kept up to date on the progress? Who should accept the project as completed?
 
 **Proposed timeline**
